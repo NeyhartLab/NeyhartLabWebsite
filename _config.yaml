@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: Neyhart Lab
-subtitle: 
+logo-text: false 
 description: Cranberry and blueberry pre-breeding group at USDA-ARS / Rutgers University in Chatsworth, New Jersey.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/backgrounds/background-header.jpg
+footer: images/backgrounds/background-footer.jpg
 proofer: false
 
 # site social media and other links
