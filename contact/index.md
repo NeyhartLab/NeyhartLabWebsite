@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our research group is part of the [USDA-ARS Genetic Improvement for Fruits & Vegetables Laboratory](https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) and we are located at the [Rutgers Universty P.E. Marucci Center for Blueberry and Cranberry Research & Extension](https://pemaruccicenter.rutgers.edu/) in Chatsworth, NJ.
+Our research group is part of the [USDA-ARS Genetic Improvement for Fruits & Vegetables Laboratory](https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) and we are located at the [Rutgers University P.E. Marucci Center for Blueberry and Cranberry Research & Extension](https://pemaruccicenter.rutgers.edu/) in Chatsworth, NJ.
 
 {%
   include button.html
