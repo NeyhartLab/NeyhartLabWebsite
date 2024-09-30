@@ -17,7 +17,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: intern, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/backgrounds/background-extra.jpg" dark=true %}
 
 We prize diversity in the expertise, perspectives, and interests of our research group. Interested in working with us? Click "Join the Team" below.
 
