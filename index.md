@@ -1,81 +1,11 @@
 ---
 ---
 
-# NeyhartLabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Cranberry and blueberry pre-breeding and genetics
 
+The Neyhart Lab is a USDA-ARS research group at the [Rutgers University P.E. Marucci Center for Blueberry and Cranberry Research & Extension](https://pemaruccicenter.rutgers.edu) in Chatsworth, NJ. We are focused on understanding the genetics of complex traits in cranberry and blueberry, discovering more efficient pre-breeding techniques, and developing improved germplasm to support cultivar development.
 
+We are a publicly funded research program in the heart of cranberry and blueberry production in the Pine Barrens of New Jersey. Our ultimate goal is to the meet the needs of our stakeholders, including growers, processors and receivers, consumers, and other plant breeders who may benefit from using our techniques or germplasm.
 
 {% include section.html %}
 
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
