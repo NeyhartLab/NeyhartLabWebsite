@@ -1,5 +1,379 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/ppj2.70067
+  title: "A systematic color correction pipeline for controlled\u2010environment imaging"
+  authors:
+  - Collins Wakholi
+  - Michael A. Hardigan
+  - Jungmin Lee
+  - Scott B. Lukas
+  - Max J. Feldman
+  - Kayla R. Altendorf
+  - Jeffrey L. Neyhart
+  - Devin A. Rippner
+  publisher: The Plant Phenome Journal
+  date: '2026-03-11'
+  link: https://doi.org/hbspp9
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ppj2.70090
+  title: 'BerryBox: An affordable computer vision system for postharvest phenotyping
+    of cranberry and other small fruits'
+  authors:
+  - Jeffrey L. Neyhart
+  - Collins Wakholi
+  - Devin A. Rippner
+  - John H. Price
+  - Kayla R. Altendorf
+  - Garett C. Heineck
+  - Juan Zalapa
+  - Jenyne Loarca
+  - Gina M. Sideli
+  publisher: The Plant Phenome Journal
+  date: '2026-07-01'
+  link: https://doi.org/hb9kdc
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/g3journal/jkag241
+  title: Genetic mapping of fruit texture in American cranberry reveals multi-trait
+    QTL and a complex genetic architecture
+  authors:
+  - Hector Lopez-Moreno
+  - Maria Alejandra Torres-Meraz
+  - Isaias Ariza-Hernandez
+  - Joseph Kawash
+  - Pedro Rojas-Barros
+  - Andrew F Maule
+  - Amaya Atucha
+  - Jeffrey L Neyhart
+  - Gina M Sideli
+  - James Polashock
+  - Massimo Iorizzo
+  - Matthew Digman
+  - Juan Zalapa
+  publisher: 'G3: Genes, Genomes, Genetics'
+  date: '2026-08-31'
+  link: https://doi.org/hchtv5
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1094/pdis-11-25-2382-fe
+  title: Integrating Past Lessons into Improved Management of Cranberry False Blossom
+    Disease
+  authors:
+  - Peter V. Oudemans
+  - Jeffrey L. Neyhart
+  - Jaspreet Kaur
+  - Michael Haines
+  - Lindsay Wells-Hansen
+  - Leslie A. Holland
+  - James J. Polashock
+  - Cesar Rodriguez-Saona
+  - "Thierry E. Besan\xE7on"
+  - Gina Sideli
+  publisher: Plant Disease
+  date: '2026-06-01'
+  link: https://doi.org/hchtv6
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/hr/uhag161
+  title: Targeted population genomics uncovers demographic history and genetic divergence
+    in North American wild cranberry
+  authors:
+  - "Nicol\xE1s Pandeli Jim\xE9nez"
+  - Maria Alejandra Torres-Meraz
+  - Jeffrey Neyhart
+  - Juan Zalapa
+  - Gina Maria Sideli
+  publisher: Horticulture Research
+  date: '2026-04-21'
+  link: https://doi.org/hbzkpz
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/tpg2.70153
+  title: "A high\u2010recovery, high\u2010density targeted genotyping platform for\
+    \ cranberry"
+  authors:
+  - Shaun J. Clare
+  - Ping Zheng
+  - Mandie Driskill
+  - Joseph Kawash
+  - Jeffrey Neyhart
+  - Timothy R. Millar
+  - Dorrie Main
+  - James Polashock
+  - Patrick Edger
+  - Nicholi Vorsa
+  - "Jennifer Johnson\u2010Cicalese"
+  - Andrew F. Maule
+  - Juan Zalapa
+  - Gina M. Sideli
+  - Massimo Iorizzo
+  - Nahla Bassil
+  publisher: The Plant Genome
+  date: '2025-12-30'
+  link: https://doi.org/hbhrr8
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esaf048
+  title: "Dissecting genotype-environment relationships with functional implications\
+    \ for parental selection in\n                    <i>Cannabis</i>\n           \
+    \         breeding"
+  authors:
+  - Anna Halpin-McCormick
+  - Robert Thomson
+  - Robert C Clarke
+  - Jeffrey Neyhart
+  - Michael B Kantar
+  publisher: Journal of Heredity
+  date: '2025-07-13'
+  link: https://doi.org/g9s4h3
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/tpg2.70118
+  title: "A public mid\u2010density genotyping platform for cultivated cranberry (\n\
+    \                    <i>Vaccinium macrocarpon</i>\n                    Aiton)"
+  authors:
+  - Shufen Chen
+  - Meng Lin
+  - Cristiane H. Taniguti
+  - Xuemei Tang
+  - Fernando de la Torre
+  - Gina M. Sideli
+  - Massimo Iorizzo
+  - Patrick P. Edger
+  - Jeffrey Neyhart
+  - Juan Zalapa
+  - Nahla Bassil
+  - "Kasia Heller\u2010Uszynska"
+  - Dongyan Zhao
+  - Craig T. Beil
+  - Moira J. Sheehan
+  publisher: The Plant Genome
+  date: '2025-10-08'
+  link: https://doi.org/g96jtf
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/tpg2.70121
+  title: Genomewide association and prediction of phenotypic stability in barley
+  authors:
+  - Jeffrey L. Neyhart
+  - Lucia Gutierrez
+  - Kevin P. Smith
+  publisher: The Plant Genome
+  date: '2025-09-27'
+  link: https://doi.org/g948xg
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/tpg2.70074
+  title: Leveraging genetic resources and genomic prediction to enhance flavonol content
+    in cranberry fruit
+  authors:
+  - "Nicol\xE1s P. Jim\xE9nez"
+  - Stephanie Fong
+  - Jeffrey L. Neyhart
+  - "Jennifer Johnson\u2010Cicalese"
+  - Nicholi Vorsa
+  - Gina M. Sideli
+  publisher: The Plant Genome
+  date: '2025-08-07'
+  link: https://doi.org/g9xb56
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/essoar.175553202.23410210/v1
+  title: A Public Mid-Density Genotyping Platform For Cultivated Cranberry (Vaccinium
+    macrocarpon Aiton)
+  authors:
+  - Shufen Chen
+  - Meng Lin
+  - Cristiane Taniguti
+  - Xuemei Tang
+  - Fernando de la Torre
+  - Gina Sideli
+  - Massimo Iorizzo
+  - Patrick Edger
+  - Jeffrey Neyhart
+  - Juan Zalapa
+  - Kasia Heller-Uszynska
+  - Nahla Bassil
+  - Dongyan Zhao
+  - Craig Beil
+  - Moira Sheehan
+  publisher: Wiley
+  date: '2025-08-18'
+  link: https://doi.org/g9x4bb
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/essoar.175510759.99598926/v1
+  title: A Public Mid-Density Genotyping Platform For Cultivated Cranberry (Vaccinium
+    macrocarpon Aiton)
+  authors:
+  - Shufen Chen
+  - Meng Lin
+  - Cristiane Taniguti
+  - Xuemei Tang
+  - Fernando de la Torre
+  - Gina Sideli
+  - Massimo Iorizzo
+  - Patrick Edger
+  - Jeffrey Neyhart
+  - Juan Zalapa
+  - Kasia Heller-Uszynska
+  - Nahla Bassil
+  - Dongyan Zhao
+  - Craig Beil
+  - Moira Sheehan
+  publisher: Wiley
+  date: '2025-08-13'
+  link: https://doi.org/g9xb57
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/essoar.175443253.36292822/v1
+  title: A high-recovery, high-density targeted genotyping platform for cranberry
+  authors:
+  - Shaun Clare
+  - Ping Zheng
+  - Mandie Driskill
+  - Joseph Kawash
+  - Jeffrey Neyhart
+  - Timothy Millar
+  - James Polashock
+  - Patrick Edger
+  - Nicholi Vorsa
+  - Jennifer Johnson-Cicalese
+  - Andrew Maule
+  - Juan Zalapa
+  - Gina Sideli
+  - Massimo Iorizzo
+  - Nahla Bassil
+  publisher: Wiley
+  date: '2025-08-05'
+  link: https://doi.org/g9wpnv
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41558-025-02333-x
+  title: Prioritizing parents from global genebanks to breed climate-resilient crops
+  authors:
+  - Quinn Campbell
+  - "Nora Casta\xF1eda-\xC1lvarez"
+  - Ryan Domingo
+  - Eric Bishop-von Wettberg
+  - Bryan Runck
+  - "Herv\xE9 Nandkangr\xE9"
+  - Anna Halpin-McCormick
+  - Nathan Fumia
+  - Jeffrey Neyhart
+  - Benjamin Kilian
+  - Peterson Wambugu
+  - Desterio Nyamongo
+  - "Sariel H\xFCbner"
+  - Sidney Sitar
+  - Addie Thompson
+  - Loren Rieseberg
+  - Michael A. Gore
+  - Michael B. Kantar
+  publisher: Nature Climate Change
+  date: '2025-05-29'
+  link: https://doi.org/g9mwg2
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42003-025-08045-4
+  title: Environmental genomic selection to leverage polygenic local adaptation in
+    barley landraces
+  authors:
+  - Anna Halpin-McCormick
+  - Quinn Campbell
+  - "S\xF3nia Negr\xE3o"
+  - Peter L. Morrell
+  - "Sariel H\xFCbner"
+  - Jeffrey L. Neyhart
+  - Michael B. Kantar
+  publisher: Communications Biology
+  date: '2025-04-16'
+  link: https://doi.org/g9f565
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.XPLC.2025.101260
+  title: Agricultural landscape genomics to increase crop resilience
+  authors:
+  - Quinn Campbell
+  - James A. Bedford
+  - Yue Yu
+  - Anna Halpin-McCormick
+  - Nora Castaneda-Alvarez
+  - Bryan Runck
+  - Jeffrey Neyhart
+  - Patrick Ewing
+  - Daniel Ortiz-Barrientos
+  - Lexuan Gao
+  - Diane Wang
+  - Mark A. Chapman
+  - Loren H. Rieseberg
+  - Michael B. Kantar
+  publisher: Plant Communications
+  date: '2025-02-01'
+  link: https://doi.org/hbdt4d
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13007-024-01285-1
+  title: 'BerryPortraits: Phenotyping Of Ripening Traits in cranberry (Vaccinium macrocarpon
+    Ait.) with YOLOv8'
+  authors:
+  - Jenyne Loarca
+  - Tyr Wiesner-Hanks
+  - Hector Lopez-Moreno
+  - Andrew F. Maule
+  - Michael Liou
+  - Maria Alejandra Torres-Meraz
+  - Luis Diaz-Garcia
+  - Jennifer Johnson-Cicalese
+  - Jeffrey Neyhart
+  - James Polashock
+  - Gina M. Sideli
+  - Christopher F. Strock
+  - Craig T. Beil
+  - Moira J. Sheehan
+  - Massimo Iorizzo
+  - Amaya Atucha
+  - Juan Zalapa
+  publisher: Plant Methods
+  date: '2024-11-13'
+  link: https://doi.org/g8q8wc
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/csc2.21168
   title: Local adaptation and broad performance are synergistic to productivity in
     modern barley
@@ -15,6 +389,26 @@
   publisher: Crop Science
   date: '2023-12-19'
   link: https://doi.org/g58jz3
+  orcid: 0000-0002-1991-5310
+  member: jeff-neyhart
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FPLS.2024.1294570
+  title: 'Of buds and bits: a meta-QTL study identifies stable QTL for berry quality
+    and yield traits in cranberry mapping populations (Vaccinium macrocarpon Ait.)'
+  authors:
+  - Andrew F. Maule
+  - Jenyne Loarca
+  - Luis Diaz-Garcia
+  - Hector Lopez-Moreno
+  - Jennifer Johnson-Cicalese
+  - Nicholi Vorsa
+  - Massimo Iorizzo
+  - Jeffrey L. Neyhart
+  - Juan E. Zalapa
+  publisher: Frontiers in Plant Science
+  date: '2024-09-17'
+  link: https://doi.org/hbdt4f
   orcid: 0000-0002-1991-5310
   member: jeff-neyhart
   plugin: orcid.py
@@ -177,8 +571,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/nse2.20026
-  title: "An active learning tool for quantitative genetics instruction using <i>R</i>\_\
-    and\_<i>shiny</i>"
+  title: "An active learning tool for quantitative genetics instruction using\n  \
+    \                  <i>R</i>\n                    \_and\_\n                   \
+    \ <i>shiny</i>"
   authors:
   - Jeffrey L. Neyhart
   - Eric Watkins
